@@ -13,6 +13,7 @@
     "@babel/plugin-transform-function-name",
     "@babel/plugin-transform-spread",
     "@babel/plugin-transform-parameters",
-    "@babel/plugin-transform-shorthand-properties"
+    "@babel/plugin-transform-shorthand-properties",
+    "babel-plugin-annotate-pure-calls"
   ]
 }

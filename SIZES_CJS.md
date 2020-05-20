@@ -17,7 +17,7 @@
 | aperture | 404 B | 612 B | -208 B |
 | append | 359 B | 217 B | +142 B |
 | apply | 359 B | 157 B | +202 B |
-| applySpec | 211 B | 1752 B | -1541 B |
+| applySpec | 216 B | 1752 B | -1536 B |
 | applyTo | 359 B | 156 B | +203 B |
 | ascend | 49 B | 268 B | -219 B |
 | assoc | 442 B | 269 B | +173 B |
@@ -54,7 +54,7 @@
 | difference | 706 B | 1373 B | -667 B |
 | differenceWith | 443 B | 316 B | +127 B |
 | dissoc | 388 B | 181 B | +207 B |
-| dissocPath | 408 B | 553 B | -145 B |
+| dissocPath | 410 B | 553 B | -143 B |
 | divide | 362 B | 156 B | +206 B |
 | drop | 368 B | 633 B | -265 B |
 | dropLast | 375 B | 806 B | -431 B |
@@ -82,7 +82,7 @@
 | findLast | 383 B | 463 B | -80 B |
 | findLastIndex | 387 B | 481 B | -94 B |
 | flatten | 76 B | 280 B | -204 B |
-| flattenObj | 458 B | n/a B | n/a B |
+| flattenObj | 463 B | n/a B | n/a B |
 | flip | 226 B | 485 B | -259 B |
 | forEach | 377 B | 298 B | +79 B |
 | forEachObjIndexed | 383 B | 475 B | -92 B |
@@ -150,8 +150,8 @@
 | mergeAll | 56 B | 232 B | -176 B |
 | mergeDeepLeft | 500 B | 380 B | +120 B |
 | mergeDeepRight | 510 B | 381 B | +129 B |
-| mergeDeepWith | 501 B | 381 B | +120 B |
-| mergeDeepWithKey | 506 B | 365 B | +141 B |
+| mergeDeepWith | 506 B | 381 B | +125 B |
+| mergeDeepWithKey | 512 B | 365 B | +147 B |
 | mergeWith | 518 B | 323 B | +195 B |
 | mergeWithKey | 480 B | 307 B | +173 B |
 | min | 366 B | 158 B | +208 B |
@@ -284,7 +284,7 @@
 | median | 371 B | 364 B | +7 B |
 | mean | 303 B | 709 B | -406 B |
 | maximum | 879 B | 3058 B | -2179 B |
-| total | 83883 B | 170697 B | -86814 B |
+| total | 83906 B | 170697 B | -86791 B |
 | light | 146 | 94 | +52 |
 
 ## How it works?
